@@ -1,0 +1,19 @@
+# Ignore virtual environments
+gesture_env/
+src/gest38/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment/config files
+.env
